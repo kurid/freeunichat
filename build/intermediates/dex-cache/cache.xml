@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ketevan Uridia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\workspace\FreeUniChat1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-beb0dad8603a6acdf256dcb212a3a30c0401031f.jar" />
+    </item>
+    <item
+        jar="D:\workspace\FreeUniChat1\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\workspace\FreeUniChat1\app\build\intermediates\pre-dexed\debug\gson-2.3.1-179a3a143ca75d802408f94236561bc5b1ca762e.jar" />
+    </item>
+
+</items>
